@@ -20,6 +20,9 @@ cp .env.example .env
 # Add your HF token to .env
 uvicorn main:app --port 8000
 
+ñade al README:  
+
+    “Open to work: AI Engineer | Full-stack Developer | Generative AI Specialist”  
 
 MIT License
 
